@@ -1,3 +1,8 @@
+RUN these commands before use:
+
+PHP artisan migrate
+
+
 We are an online retailer specialising in technology books. We have a legacy system which
 is proving difficult to maintain and currently has no test coverage that we are looking to
 replace. We are looking to build a RESTful json API. You have been tasked with developing
